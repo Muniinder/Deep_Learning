@@ -1,0 +1,10 @@
+np.zeroes(a,b)
+np.exp(vector)........like that there are many
+
+A.sum(axis = 0)-------axis(0 or 1) if 0 means sum vertical else sum horizontal
+per = 100 * A/cal.reshape(1,4)
+
+
+week_2_assignment :
+  train_set_x_orig[0][i]------------ if i == 0, data set of first picture and so on...
+  train_set_x_orig[0] ------- array of consisting pictures data set (picture data set is internaly an array of data(internally an array of values [r, g, b]))
